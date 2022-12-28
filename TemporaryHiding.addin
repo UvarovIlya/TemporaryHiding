@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application TemporaryHiding</Name>
+    <Assembly>TemporaryHiding.dll</Assembly>
+    <FullClassName>TemporaryHiding.App</FullClassName>
+    <ClientId>abec49ef-a37b-47dc-ad70-f745406eb5b6</ClientId>
+    <VendorId>ru.gap-rt</VendorId>
+    <VendorDescription>АО Казанский ГИПРОНИИАВИАПРОМ, отдел ТИМ, http://gap-rt.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>

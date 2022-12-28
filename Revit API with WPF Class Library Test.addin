@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application RevitPluginTemplateKazGap</Name>
+    <Assembly>RevitPluginTemplateKazGap.dll</Assembly>
+    <FullClassName>RevitPluginTemplateKazGap.App</FullClassName>
+    <ClientId>00000000-0000-0000-0000-000000000000</ClientId>
+    <VendorId>ru.gap-rt</VendorId>
+    <VendorDescription>АО Казанский ГИПРОНИИАВИАПРОМ, отдел ТИМ, http://gap-rt.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
